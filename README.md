@@ -20,5 +20,13 @@
 ## Contact:
 ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
+## Github Stats
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ethanillingsworth&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanillingsworth&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Credits
 Thank you to [Alexandre Sanlim](https://github.com/alexandresanlim) for this awesome [repository](https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-office-) full of badges!
+
+Thank you to [Sam Morozov](https://github.com/sammorozov) for the idea to add Github stats to my README! Heres the [repository](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2) that I used to add the stats, thanks [Anurag Hazra](https://github.com/anuraghazra)!
