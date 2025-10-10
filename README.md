@@ -21,6 +21,7 @@
 ![JSON](https://badgelab.dev/api/badge/json)
 ![React](https://badgelab.dev/api/badge/react)
 ![jQuery](https://badgelab.dev/api/badge/jquery)
+![TailwindCSS](https://badgelab.dev/api/badge/tailwindcss)
 
 ## Hosting
 ![Netlify](https://badgelab.dev/api/badge/netlify)
