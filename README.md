@@ -1,16 +1,15 @@
 # About Me
 
 ## Languages
-![HTML5](https://badgelab.dev/api/badge/html5)
-![CSS3](https://badgelab.dev/api/badge/css3)
+![HTML5](https://badgelab.dev/api/badge/html5-white)
+![CSS3](https://badgelab.dev/api/badge/css3-white)
 ![JS](https://badgelab.dev/api/badge/javascript)
-![Python](https://badgelab.dev/api/badge/python)
-![Swift](https://badgelab.dev/api/badge/swift)
+![Python](https://badgelab.dev/api/badge/python-white)
+![Swift](https://badgelab.dev/api/badge/swift-white)
 ![Java](https://badgelab.dev/api/badge/java)
 ![Markdown](https://badgelab.dev/api/badge/markdown)
 
 ## Education
-![W3Schools](https://badgelab.dev/api/badge/w3schools)
 ![Khan Academy](https://badgelab.dev/api/badge/khan-academy)
 ![Codecademy](https://badgelab.dev/api/badge/codecademy)
 ![MDN Web Docs](https://badgelab.dev/api/badge/mdn)
@@ -28,8 +27,8 @@
 ![Github Pages](https://badgelab.dev/api/badge/github-pages)
 
 ## Workspace
-![Debian](https://badgelab.dev/api/badge/debian)
-![Visual Studio Code](https://badgelab.dev/api/badge/vscode)
+![Debian](https://badgelab.dev/api/badge/debian-white)
+![Visual Studio Code](https://badgelab.dev/api/badge/vscode-white)
 ![Firefox](https://badgelab.dev/api/badge/firefox)
 
 Like these badges? Find them at the [BadgeLab](https://github.com/ethanillingsworth/BadgeLab) repo.
