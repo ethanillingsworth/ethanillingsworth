@@ -3,7 +3,7 @@
 ## Languages
 ![HTML5](https://badgelab.dev/api/badge/html5)
 ![CSS3](https://badgelab.dev/api/badge/css3)
-![JS](https://badgelab.dev/api/badge/javascript-color)
+![JS](https://badgelab.dev/api/badge/javascript)
 ![Python](https://badgelab.dev/api/badge/python)
 ![Swift](https://badgelab.dev/api/badge/swift)
 ![Java](https://badgelab.dev/api/badge/java)
