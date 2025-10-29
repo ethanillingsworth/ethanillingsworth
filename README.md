@@ -16,11 +16,11 @@
 ![GeeksForGeeks](https://badgelab.dev/api/badge/geeksforgeeks)
 
 ## Technologies
-![Firebase](https://badgelab.dev/api/badge/firebase)
+![Firebase](https://badgelab.dev/api/badge/firebase-black)
 ![JSON](https://badgelab.dev/api/badge/json)
 ![React](https://badgelab.dev/api/badge/react)
-![jQuery](https://badgelab.dev/api/badge/jquery)
-![TailwindCSS](https://badgelab.dev/api/badge/tailwindcss)
+![jQuery](https://badgelab.dev/api/badge/jquery-white)
+![TailwindCSS](https://badgelab.dev/api/badge/tailwindcss-white)
 
 ## Hosting
 ![Netlify](https://badgelab.dev/api/badge/netlify)
