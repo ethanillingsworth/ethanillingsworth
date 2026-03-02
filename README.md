@@ -33,7 +33,3 @@
 
 Like these badges? Find them at the [BadgeLab](https://github.com/ethanillingsworth/BadgeLab) repo.
 
-## Github Stats
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ethanillingsworth&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanillingsworth&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
