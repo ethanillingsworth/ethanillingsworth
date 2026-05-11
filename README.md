@@ -17,8 +17,8 @@
 
 ## Technologies
 ![Firebase](https://badgelab.dev/api/badge/firebase)
-![JSON](https://badgelab.dev/api/badge/json)
-![React](https://badgelab.dev/api/badge/react)
+![JSON](https://badgelab.dev/api/badge/json?style=mono)
+![React](https://badgelab.dev/api/badge/react?style=mono)
 ![jQuery](https://badgelab.dev/api/badge/jquery)
 ![TailwindCSS](https://badgelab.dev/api/badge/tailwindcss)
 
