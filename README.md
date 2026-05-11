@@ -1,11 +1,11 @@
 # About Me
 
 ## Languages
-![HTML5](https://badgelab.dev/api/badge/html5-white)
-![CSS3](https://badgelab.dev/api/badge/css3-white)
+![HTML5](https://badgelab.dev/api/badge/html5)
+![CSS3](https://badgelab.dev/api/badge/css3)
 ![JS](https://badgelab.dev/api/badge/javascript)
-![Python](https://badgelab.dev/api/badge/python-white)
-![Swift](https://badgelab.dev/api/badge/swift-white)
+![Python](https://badgelab.dev/api/badge/python)
+![Swift](https://badgelab.dev/api/badge/swift)
 ![Java](https://badgelab.dev/api/badge/java)
 ![Markdown](https://badgelab.dev/api/badge/markdown)
 
@@ -16,19 +16,19 @@
 ![GeeksForGeeks](https://badgelab.dev/api/badge/geeksforgeeks)
 
 ## Technologies
-![Firebase](https://badgelab.dev/api/badge/firebase-black)
+![Firebase](https://badgelab.dev/api/badge/firebase)
 ![JSON](https://badgelab.dev/api/badge/json)
 ![React](https://badgelab.dev/api/badge/react)
-![jQuery](https://badgelab.dev/api/badge/jquery-white)
-![TailwindCSS](https://badgelab.dev/api/badge/tailwindcss-white)
+![jQuery](https://badgelab.dev/api/badge/jquery)
+![TailwindCSS](https://badgelab.dev/api/badge/tailwindcss)
 
 ## Hosting
 ![Netlify](https://badgelab.dev/api/badge/netlify)
 ![Github Pages](https://badgelab.dev/api/badge/github-pages)
 
 ## Workspace
-![Debian](https://badgelab.dev/api/badge/debian-white)
-![Visual Studio Code](https://badgelab.dev/api/badge/vscode-white)
+![Debian](https://badgelab.dev/api/badge/debian)
+![Visual Studio Code](https://badgelab.dev/api/badge/vscode)
 ![Firefox](https://badgelab.dev/api/badge/firefox)
 
 Like these badges? Find them at the [BadgeLab](https://github.com/ethanillingsworth/BadgeLab) repo.
